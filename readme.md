@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hinokage08)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokage08&layout=compact&hide=html" alt="hinokage08" width="200"/>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinokage08&layout=compact&hide=html" alt="hinokage08" width="300"/>
 <img src="https://github-readme-stats.vercel.app/api?username=hinokage08&show_icons=true" alt="hinokage08" /></p>
 
 <h3 align="left">ツール</h3>
